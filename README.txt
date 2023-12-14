@@ -125,7 +125,8 @@ Example:
 
 bash
 
-    git remote set-url origin https://Sudh777:<your-token>@github.com/Sudh777/My_proj.git
+    git remote set-url origin https://Sudh777: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@github.com/Sudh777/My_proj.git
+
 
 Attempt the Operation Again:
 
